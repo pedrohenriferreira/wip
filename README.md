@@ -1,6 +1,6 @@
 # WIP - Rede Social Educacional
 
-![Interface do WIP](wip.jpg)
+![Interface do WIP](wip/wip.jpg)
 
 ## 📌 Sobre o Projeto
 
